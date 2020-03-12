@@ -1,0 +1,34 @@
+<div class="row">
+<div class="col-sm-8">
+<h1 class="add-top-xs">Бардук Василий Иванович</h1>
+<h1 class="add-top-xs"><span style="font-size: 16px;">Адміністратор</span><span class="normal-weight text-muted-print" style="font-size: 16px;">, 15&nbsp;000&nbsp;грн</span></h1>
+<p class="text-muted">Повна зайнятість.</p>
+<dl class="dl-horizontal">
+<dt>Вік: 24&nbsp;роки</dt>
+<dt>Місто :Білгород-Дністровський</dt>
+<dt>Готовий до переїзду&nbsp;в: Київ, Одеса</dt>
+</dl>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="pull-right no-pull-xs">
+<div class="add-top-sm add-bottom-sm"></div>
+</div>
+</div>
+</div>
+<hr class="add-top-sm" />
+<h2 id="contactInfo">Контактна інформація</h2>
+<div class="alert alert-warning add-top hidden-print" id="contactMessage" data-type="showMessage">
+<p>mr.barduk@gmail.com</p>
+</div>
+<hr />
+<h2>Досвід роботи</h2>
+<p class="text-muted" data-expid="4627767">ТОВ "Сота-Альянс" Продавець непродовольчих&nbsp; товарів 2,5 років.</p>
+<hr />
+<h2>Освіта</h2>
+<p>Одеський&nbsp; колледж комп'ютерних технлогій&nbsp;</p>
+<h3></h3>
+<h2>Знання мов</h2>
+<p>Англійська &mdash; початковий</p>
+<hr />
+<h2>Додаткова інформація</h2>
+<p id="addInfo">Цілеспрямований, комунікабельний, без шкідливих звичок.</p>
