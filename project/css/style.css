@@ -1,0 +1,41 @@
+*{box-sizing: border-box;}
+.box{
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    position: relative;
+    left: 50%;
+    margin-left: -300px;
+}
+
+.mini-box{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    overflow: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.mini-box2{
+    background-color:yellow;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    overflow: auto;
+    text-align: center;
+}
+.mini-box3{
+    background-color: grey;
+    height: 300px;
+    width: 600px;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    
+}
+select {
+    margin-top: 25%;
+}
